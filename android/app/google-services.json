@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054139527182",
+    "project_id": "cybershop-71228",
+    "storage_bucket": "cybershop-71228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054139527182:android:d6713e75d1aa0ec98b0c5f",
+        "android_client_info": {
+          "package_name": "com.example.cybershop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdF0zV46VhRPHzdLWFT7XjL8Qy_2Oyp6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
